@@ -1,4 +1,4 @@
-# EMPLOYEE DEMOGRAPHICS AND DEPARTMENT INSIGHTS
+# Employee Demographics and Department Insights
 
 ### Project Overview
 
@@ -8,5 +8,23 @@ Designed for HR teams, executives, and business leaders, the dashboard enables q
 
 
 ### Data Source
+
+
+### Tools
+
+- Excel
+
+
+### Tasks
+
+1. Analyze the distribution of employees across departments.
+
+2. Visualize the gender split and age distribution using pie
+charts and histograms.
+
+3. Identify the average salary by department.
+
+
+### 
 
 
