@@ -36,6 +36,31 @@ charts and histograms.
 
 ### Analysis
 
+**1**. Analyze the distribution of employees across departments
+
+
+**Key Observations**
+
+
+- Top Departments:
+
+   - R&D leads with the highest count (~1,060 employees), followed closely by Marketing (~1,055) and Sales (~1,045).
+
+  - This reflects a strategic emphasis on innovation, brand growth, and revenue generation.
+
+
+- Mid-range Staffing:
+
+IT (~1,040) and Operations (~1,000) have substantial employee bases, supporting technology infrastructure and internal processes.
+
+Smaller Departments:
+
+HR (~995) and Finance (~990) operate with leaner teams.
+
+Logistics, Customer Service, and Legal have the fewest employees (<960), suggesting streamlined support functions.
+
+
+
 
 
 
