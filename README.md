@@ -1,5 +1,10 @@
 # Employee Demographics and Department Insights
 
+
+## Table of Contents
+
+
+
 ### Project Overview
 
 This project delivers a dynamic Employee Demographics and Department Insights Dashboard built from a synthetic dataset containing 10,000 employee records. The dashboard presents a comprehensive analysis of the organization’s workforce, segmented by department, gender, age, education level, years of service, and salary ranges.
