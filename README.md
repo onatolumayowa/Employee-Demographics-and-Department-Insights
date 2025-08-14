@@ -3,6 +3,25 @@
 
 ## Table of Contents
 
+[Project Overview](#project-overview)
+
+[Data Source](#data-source)
+
+[Tools](#tools)
+
+[Tasks](#tasks)
+
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Analysis](#analysis)
+
+[Overall Workforce Insights and Recommendations](#overall-workforce-insights-and-recommendations)
+
+[Overall Insights](#overall-insights)
+
+[Strategic Recommendations](#strategic-recommendations)
+
+[Conclusion](#conclusion)
 
 
 ### Project Overview
@@ -294,7 +313,7 @@ charts and histograms.
 
 
 
-### Overall Workforce Insights & Recommendations
+### Overall Workforce Insights and Recommendations
 
 
 **1. Age Distribution**
