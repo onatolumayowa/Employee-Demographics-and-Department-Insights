@@ -39,7 +39,22 @@ charts and histograms.
 **1**. Analyze the distribution of employees across departments
 
 
-|
+**Employee Count by Department — Percentage Analysis**
+
+
+
+|Department|Employees|% of Total Workforce|
+|----------|---------|--------------------|
+|R&D|1053|10.53%|
+|Marketing|1045|10.45%|
+|Sales|1036|10.36%|
+|IT|1034|10.34%|
+|Operations|996|9.96%|
+|HR|993|9.93%|
+|Finance|984|9.84%|
+|Logistics|959|9.59%|
+|Customer Service|951|9.51%|
+|Legal|949|9.49%|
 
 
 **Key Observations**
@@ -76,6 +91,41 @@ charts and histograms.
 
 **2** Visualize the gender split using pie charts and histograms.
 
+
+**Gender Distribution**
+
+
+| Gender       | Percentage |
+|--------------|------------|
+| Female       | 33.6%      |
+| Male         | 33.5%      |
+| Non-binary   | 33.0%      |
+
+
+
+**Observations**
+
+
+- Nearly Equal Representation:
+
+
+   - The percentages are almost evenly split among all three gender categories, each hovering around one-third of the workforce.
+
+   - The largest group, Female, exceeds the smallest group, Non-binary, by only 0.6 percentage points.
+
+
+- Balanced Workforce:
+
+
+   - Such minimal gaps suggest that the organization has achieved a remarkably balanced gender representation, which is rare in many industries.
+
+
+- Diversity Implications:
+
+
+   - This balance may reflect inclusive recruitment policies and a workplace culture that supports diversity across all gender identities.
+
+   - It also minimizes the risk of decision-making biases that can stem from demographic imbalances.
 
 
 
