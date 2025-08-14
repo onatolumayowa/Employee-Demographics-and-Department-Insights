@@ -297,7 +297,7 @@ charts and histograms.
 
    **- Observation:** The workforce is skewed toward older employees, with 44.59% aged 45+, 34.20% aged 30–45, and only 21.21% aged 21–30.
 
-   - Implication: The company has an experienced workforce but may face succession challenges in the future.
+   **- Implication:** The company has an experienced workforce but may face succession challenges in the future.
 
    - Recommendation: Implement succession planning and attract younger talent to maintain long-term workforce sustainability.
 
