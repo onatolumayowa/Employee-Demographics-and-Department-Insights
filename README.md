@@ -178,4 +178,60 @@ charts and histograms.
 
 
 
-**Average
+**Average Salary by Department**
+
+
+|Department|Average Salary|
+|----------|--------------|
+|Operations|$89,008.66|
+|IT|$89,222.05|
+|Sales|$89,407.94|
+|Finance|$90,128.15|
+|R&D|$90,350.52|
+|Legal|$90,550.11|
+|HR|$90,984.75|
+|Customer Service|$91,565.90|
+|Logistics|$91,808.21|
+|Marketing|$92,492.35|
+
+
+
+**Observations**
+
+
+- Highest Paying Departments:
+
+   - Marketing ($92,492.35), Logistics ($91,808.21), and Customer Service ($91,565.90) top the salary chart.
+
+   - These departments may involve specialized skills, high responsibility, or revenue-generating roles.
+
+
+- Mid-range Salaries:
+
+   - HR ($90,984.75), Legal ($90,550.11), and R&D ($90,350.52) fall around the organizational average.
+
+   - These are moderately high, reflecting their strategic or compliance-related roles.
+
+
+- Lower Paying Departments:
+
+   - Operations ($89,008.66), IT ($89,222.05), and Sales ($89,407.94) are on the lower end, though still close to the overall average.
+
+
+- Overall Average:
+
+   - The grand total average salary is $90,541.77, indicating a relatively narrow salary range across departments (~$3,500 difference between lowest and highest).
+
+   - This suggests salary parity and structured pay scales across the organization.
+
+
+**Insights**
+
+
+- The salary structure is balanced, with no extreme disparities between departments.
+
+- Slightly higher salaries in Marketing, Logistics, and Customer Service may reflect market competitiveness or specialized skills required in these areas.
+
+- Lower salaries in Operations, IT, and Sales could indicate larger headcount or standardized pay grades.
+
+- Overall, the organization seems to maintain equitable compensation across functional areas.
