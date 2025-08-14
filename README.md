@@ -66,6 +66,9 @@ charts and histograms.
 **1**. Analyze the distribution of employees across departments
 
 
+[View chart](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-2/blob/main/count%20by%20dept.png)
+
+
 **Employee Count by Department — Percentage Analysis**
 
 
