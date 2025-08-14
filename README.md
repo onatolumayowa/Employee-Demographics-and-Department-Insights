@@ -235,3 +235,55 @@ charts and histograms.
 - Lower salaries in Operations, IT, and Sales could indicate larger headcount or standardized pay grades.
 
 - Overall, the organization seems to maintain equitable compensation across functional areas.
+
+
+
+**5**. Analyse the count of employee by educational level
+
+
+**Employee Count by Education Level**
+
+
+|Education Level|Count of Employees|
+|---------------|------------------|
+|Master's|2045|
+|Bachelor's|2007|
+|PhD|1995|
+|Associate's|1978|
+|High School|1975|
+
+
+**Observations**
+
+
+- Most Common Education Level:
+
+   - Master’s degree holders are the largest group (2,045 employees), suggesting a highly educated workforce.
+
+
+- Closely Following Levels:
+
+   - Bachelor’s (2,007) and PhD (1,995) holders are nearly equal, forming a substantial part of the workforce.
+
+
+- Associate’s and High School:
+
+   - These groups are slightly smaller (~1,975–1,978), indicating fewer employees with lower formal education compared to advanced degrees.
+
+
+- Balanced Distribution:
+
+- The counts are remarkably balanced across all education levels, with no group dominating.
+
+- The difference between the largest and smallest group is only 70 employees, or 0.7% of the total workforce.
+
+
+**Insights**
+
+
+- The organization has a highly educated and balanced workforce, with nearly equal representation across education levels.
+
+- This balance may allow for diverse perspectives in problem-solving, innovation, and operational execution.
+
+- Recruitment appears inclusive of various education backgrounds, supporting roles requiring both advanced degrees and practical experience.
+
