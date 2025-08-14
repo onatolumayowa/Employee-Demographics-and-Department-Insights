@@ -89,7 +89,7 @@ charts and histograms.
    - The staffing pattern indicates a growth-focused organizational strategy, with major resources allocated to product development, market expansion, and operational             support, while maintaining efficiency in administrative and service roles.
  
 
-**2** Visualize the gender split using pie charts and histograms.
+**2**. Visualize the gender split using pie charts
 
 
 **Gender Distribution**
@@ -127,8 +127,19 @@ charts and histograms.
 
    - It also minimizes the risk of decision-making biases that can stem from demographic imbalances.
 
+ 
+
+**3**. Visualize age distribution using pie chart
 
 
+**Age Distribution Data**
+
+
+|Age Group|Percentage|
+|---------|----------|
+|45+|44.59%|
+|31-45|34.20%|
+|21-30|21.21%|
 
 
 
