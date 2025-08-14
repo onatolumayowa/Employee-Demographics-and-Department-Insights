@@ -122,6 +122,9 @@ charts and histograms.
 **2**. Visualize the gender split using pie charts
 
 
+[View chart](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-2/blob/main/distribution%20by%20gender.png)
+
+
 **Gender Distribution**
 
 
