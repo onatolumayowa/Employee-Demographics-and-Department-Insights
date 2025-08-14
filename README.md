@@ -142,6 +142,40 @@ charts and histograms.
 |21-30|21.21%|
 
 
+**Observations**
+
+
+- Largest Segment – 45+:
+
+   - The majority of the population (44.59%) is over 45, indicating an experienced, senior-heavy group.
+
+
+- Middle Segment – 30–45:
+
+   - This group accounts for 34.20%, forming a substantial middle-aged population likely contributing to both experience and operational capacity.
+
+
+- Young Adults – 21–30:
+
+   - The smallest segment (21.21%) represents the youngest workforce or population, suggesting fewer entry-level or early-career individuals.
+
+
+**Insights**
+
+
+- Experience Skew: The workforce or population is skewed toward older, more experienced individuals.
+
+
+- Succession Planning: A smaller young adult segment may indicate potential future gaps if retirements occur.
+
+
+- Workforce Strategy: Organizations may need to attract younger talent to maintain long-term sustainability while leveraging the expertise of older employees.
 
 
 
+
+**4**. Identify the average salary by department
+
+
+
+**Average
