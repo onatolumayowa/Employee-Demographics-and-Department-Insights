@@ -39,19 +39,22 @@ charts and histograms.
 **1**. Analyze the distribution of employees across departments
 
 
+|
+
+
 **Key Observations**
 
 
 - Top Departments:
 
-   - R&D leads with the highest count (~1,060 employees), followed closely by Marketing (~1,055) and Sales (~1,045).
+   - R&D leads with the highest count (~1,060 employees), followed closely by Marketing (~1,050) and Sales (~1,040).
 
    - This reflects a strategic emphasis on innovation, brand growth, and revenue generation.
 
 
 - Mid-range Staffing:
 
-   - IT (~1,040) and Operations (~1,000) have substantial employee bases, supporting technology infrastructure and internal processes.
+   - IT (~1,035) and Operations (~1,000) have substantial employee bases, supporting technology infrastructure and internal processes.
 
 
 - Smaller Departments:
@@ -65,6 +68,13 @@ charts and histograms.
 
    - The company’s workforce is heavily concentrated in product development (R&D), market expansion (Marketing & Sales), and tech/operations, with relatively fewer employees      in administrative and support roles.
 
+
+- Possible Interpretation:
+
+   - The staffing pattern indicates a growth-focused organizational strategy, with major resources allocated to product development, market expansion, and operational             support, while maintaining efficiency in administrative and service roles.
+ 
+
+**2** Visualize the gender split using pie charts and histograms.
 
 
 
