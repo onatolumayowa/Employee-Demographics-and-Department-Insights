@@ -46,18 +46,24 @@ charts and histograms.
 
    - R&D leads with the highest count (~1,060 employees), followed closely by Marketing (~1,055) and Sales (~1,045).
 
-  - This reflects a strategic emphasis on innovation, brand growth, and revenue generation.
+   - This reflects a strategic emphasis on innovation, brand growth, and revenue generation.
 
 
 - Mid-range Staffing:
 
-IT (~1,040) and Operations (~1,000) have substantial employee bases, supporting technology infrastructure and internal processes.
+   - IT (~1,040) and Operations (~1,000) have substantial employee bases, supporting technology infrastructure and internal processes.
 
-Smaller Departments:
 
-HR (~995) and Finance (~990) operate with leaner teams.
+- Smaller Departments:
 
-Logistics, Customer Service, and Legal have the fewest employees (<960), suggesting streamlined support functions.
+   - HR (~995) and Finance (~990) operate with leaner teams.
+
+   - Logistics, Customer Service, and Legal have the fewest employees (<960), suggesting streamlined support functions.
+
+ 
+- Workforce Distribution Pattern:
+
+   - The company’s workforce is heavily concentrated in product development (R&D), market expansion (Marketing & Sales), and tech/operations, with relatively fewer employees      in administrative and support roles.
 
 
 
