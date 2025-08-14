@@ -33,6 +33,8 @@ Designed for HR teams, executives, and business leaders, the dashboard enables q
 
 ### Data Source
 
+[View here](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-2/blob/main/employee_demographics_dataset.csv)
+
 
 ### Tools
 
