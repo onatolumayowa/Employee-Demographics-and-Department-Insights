@@ -279,6 +279,10 @@ charts and histograms.
 **5**. Analyse the count of employee by educational level
 
 
+[View chart](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-2/blob/main/count%20by%20educational%20level.png)
+
+
+
 **Employee Count by Education Level**
 
 
