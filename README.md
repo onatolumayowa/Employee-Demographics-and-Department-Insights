@@ -30,6 +30,7 @@ This project delivers a dynamic Employee Demographics and Department Insights Da
 
 Designed for HR teams, executives, and business leaders, the dashboard enables quick exploration of workforce composition, diversity metrics, and salary patterns empowering stakeholders to make informed, data-driven decisions on recruitment, retention, and strategic workforce planning.
 
+[Dasgboard Preview](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/11edc64f-eb74-4aeb-9d95-e6998f8ab3fb" />)
 
 ### Data Source
 
