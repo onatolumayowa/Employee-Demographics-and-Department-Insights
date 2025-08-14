@@ -30,7 +30,7 @@ This project delivers a dynamic Employee Demographics and Department Insights Da
 
 Designed for HR teams, executives, and business leaders, the dashboard enables quick exploration of workforce composition, diversity metrics, and salary patterns empowering stakeholders to make informed, data-driven decisions on recruitment, retention, and strategic workforce planning.
 
-[Dashboard Preview](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-2/blob/main/main%20dashboard.png)
+[Dashboard Preview](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-2/blob/main/main_dashboard.png)
 
 ### Data Source
 
