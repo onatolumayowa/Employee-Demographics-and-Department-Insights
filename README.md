@@ -213,6 +213,8 @@ charts and histograms.
 **4**. Identify the average salary by department
 
 
+[View chart](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-2/blob/main/avg%20salary%20for%20each%20dept.png)
+
 
 **Average Salary by Department**
 
