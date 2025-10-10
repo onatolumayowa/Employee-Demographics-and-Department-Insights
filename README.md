@@ -165,7 +165,7 @@ charts and histograms.
 **3**. Visualize age distribution using pie chart
 
 
-[View chart](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-2/blob/main/distribution%20by%20age.png)
+![View chart](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-2/blob/main/distribution%20by%20age.png)
 
 
 **Age Distribution Data**
