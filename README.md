@@ -30,7 +30,7 @@ This project delivers a dynamic Employee Demographics and Department Insights Da
 
 Designed for HR teams, executives, and business leaders, the dashboard enables quick exploration of workforce composition, diversity metrics, and salary patterns empowering stakeholders to make informed, data-driven decisions on recruitment, retention, and strategic workforce planning.
 
-[Dashboard Preview](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-2/blob/main/main_dashboard.png)
+![Dashboard Preview](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-2/blob/main/main_dashboard.png)
 
 ### Data Source
 
@@ -66,7 +66,7 @@ charts and histograms.
 **1**. Analyze the distribution of employees across departments
 
 
-[View chart](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-2/blob/main/count%20by%20dept.png)
+![View chart](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-2/blob/main/count%20by%20dept.png)
 
 
 **Employee Count by Department — Percentage Analysis**
@@ -122,7 +122,7 @@ charts and histograms.
 **2**. Visualize the gender split using pie charts
 
 
-[View chart](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-2/blob/main/distribution%20by%20gender.png)
+![View chart](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-2/blob/main/distribution%20by%20gender.png)
 
 
 **Gender Distribution**
@@ -213,7 +213,7 @@ charts and histograms.
 **4**. Identify the average salary by department
 
 
-[View chart](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-2/blob/main/avg%20salary%20for%20each%20dept.png)
+![View chart](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-2/blob/main/avg%20salary%20for%20each%20dept.png)
 
 
 **Average Salary by Department**
@@ -279,7 +279,7 @@ charts and histograms.
 **5**. Analyse the count of employee by educational level
 
 
-[View chart](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-2/blob/main/count%20by%20educational%20level.png)
+![View chart](https://github.com/onatolumayowa/CODING-SAMURAI-INTERNSHIP-TASK-2/blob/main/count%20by%20educational%20level.png)
 
 
 
